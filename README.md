@@ -6,17 +6,17 @@ This is a Google Books API search engine built with a GraphQL API and Apollo Ser
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. You will need `node` and `npm` installed globally on your machine. Go to root folder of your project:  
 
-Installation:
+Installation for both Server and Client side dependencies:  
 
 `npm install`  
 
-To Start Server:
+To Start both Server and Client side servers:  
 
-`npm start`  
+`npm run develop`  
 
-To Visit App:
+To Visit App:  
 
 `localhost:3000`  
 
@@ -24,7 +24,7 @@ To Visit App:
 ![Screenshot](https://github.com/palakdevgan/react-portfolio/blob/main/src/assets/Screenshot/screenshot1.jpg?raw=true)
 
 ## Website
-https://palakdevgan.github.io/react-portfolio/
+https://abracadabrant-saucisson-34867.herokuapp.com/
 
 ## Contribution
 Made with ❤️ by Palak Devgan
