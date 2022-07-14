@@ -35,7 +35,6 @@ type Auth {
 
 type Query {
     me:User
-    user(username: String!): User
    
   }
 
