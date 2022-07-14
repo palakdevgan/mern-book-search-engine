@@ -21,7 +21,7 @@ To Visit App:
 `localhost:3000`  
 
 ## Screenshot
-![Screenshot](https://github.com/palakdevgan/react-portfolio/blob/main/src/assets/Screenshot/screenshot1.jpg?raw=true)
+![Screenshot](https://github.com/palakdevgan/mern-book-search-engine/blob/main/client/public/screenshot.jpg?raw=true)
 
 ## Website
 https://abracadabrant-saucisson-34867.herokuapp.com/
